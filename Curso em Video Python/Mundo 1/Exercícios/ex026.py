@@ -1,0 +1,7 @@
+algo = str(input('Digite algo pelo teclado :')).strip().lower()
+primeiro_a = algo.count('a')
+primeira_vez_a = algo.find('a')
+ultima_vez_a = algo.rfind('a')
+print(f'A letra a apareceu {primeiro_a} vez')
+print(f'A primeira vez que o a apareceu foi na posição {primeira_vez_a}')
+print(f'A ultima vez que o a apareceu foi na posição {ultima_vez_a}')
