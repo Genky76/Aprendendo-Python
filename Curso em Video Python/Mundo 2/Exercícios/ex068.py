@@ -25,5 +25,5 @@ while True:
             print(f'Você perdeu, pois {soma} não é Impar')
             vitorias_consectivas += 1
             break
-print(f'Foram {vitorias_consectivas} vitoris consecutivas')
+print(f'Foram {vitorias_consectivas - 1} vitoris consecutivas')
 print('Fim')
