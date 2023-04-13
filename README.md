@@ -12,7 +12,7 @@ Aqui vou mostrar meu progresso no Curso Python
 * Exercícios do [Mundo 1](https://github.com/Genky76/Aprendendo-Python/tree/main/Curso%20em%20Video%20Python/Mundo%201)
 * Exercícios do [Mundo 2](https://github.com/Genky76/Aprendendo-Python/tree/CursoPython/Curso%20em%20Video%20Python/Mundo%202)
 * Exercícios do Mundo 3
----
+
 ## Certificados Python
 ---
 A Escola Nacional de Administração Pública - Enap - [Aprendendo com Python](https://drive.google.com/file/d/11A1Q-1J7oUhzBMC9uaTtbJtrFEsyLrnn/view?usp=share_link)
